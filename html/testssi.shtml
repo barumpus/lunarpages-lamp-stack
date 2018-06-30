@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang=en>
+<head>
+    <meta charset=utf-8>
+    <title>SSI Test</title>
+</head>
+<body>
+    Hello ssi?
+    <!--#echo var="DATE_LOCAL" --> 
+    <!--#include file="_nav.shtml" -->
+    See ya.
+</body>
+</html>
