@@ -62,8 +62,8 @@ adjusting your path environment
   http://mechanicalrevolution.com/blog/git_installation.html
 
 choosing HTTPS transport backend
-- use the native windows secure channel library [windows certificate store)
-  this allows you to use providence root certs
+- use the native windows secure channel library (windows certificate store)
+  this allows you to use root certs
 
 configuring the line ending conversions
 - checkout windows style, commit unit-style line endings
